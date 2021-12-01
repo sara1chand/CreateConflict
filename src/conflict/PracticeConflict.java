@@ -9,6 +9,8 @@ public class PracticeConflict {
 		
 		System.out.println("make change agian");
 		
+		System.out.println("make change agian");
+		
 		System.out.println("pushing without stashing deleting");
 
 		
