@@ -9,7 +9,7 @@ public class PracticeConflict {
 		
 		System.out.println("make change agian");
 		
-		System.out.println("pushing without stashing");
+		System.out.println("pushing without stashing and making change");
 
 		
 		
